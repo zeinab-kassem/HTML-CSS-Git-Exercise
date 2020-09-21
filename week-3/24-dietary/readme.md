@@ -7,7 +7,7 @@ When using the `checkbox` or `radio` input types, you often need to group the op
 
 When you are done, it should look like the image below.
 
-![Screenshot of the dietary needs after the first steps](/Exercises/html-css-git-exercises/images/24/solution-1.png)
+![Screenshot of the dietary needs after the first steps](/images/24/solution-1.png)
 
 If you have used the `for` and `id` attributes properly, you should be able to click on the name of each dietary requirement to check that box.
 
