@@ -32,4 +32,4 @@ When you're done, it should look exactly the same except that when you click on 
 
 Can you make each item appear on it's own line like the image below?
 
-![Screenshot of the dietary needs with each item on its own line](/Exercises/html-css-git-exercises/images/24/solution-2.png)
+![Screenshot of the dietary needs with each item on its own line](/images/24/solution-2.png)
