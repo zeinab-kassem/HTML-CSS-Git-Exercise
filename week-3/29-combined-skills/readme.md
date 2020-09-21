@@ -164,12 +164,6 @@ When you are done, the about text shoudl look like the image below.
 
 Congratulations, you've completed all of the exercises! :tada:
 
-When you have completed all of the tasks, commit your changes. Then run the following command to push your changes to GitHub.
-
-```
-git push
-```
-
-When this is done, post a link to your GitHub repository in the Slack channel and ask the mentors to take a look.
+When you have completed all of the tasks, commit and push your changes.
 
 :+1:
