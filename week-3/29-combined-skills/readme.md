@@ -160,7 +160,7 @@ When you are done, the about text shoudl look like the image below.
 
 ![Screenshot of the text formatting solution](/images/29-solution-text.png)
 
-## 12. Submit your Pull Request
+## 12. Submit your Work
 
 Congratulations, you've completed all of the exercises! :tada:
 
